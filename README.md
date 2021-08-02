@@ -1,5 +1,6 @@
 # beacon-v2-Models: The Beacon v2 draft 3 Model
 This repo hosts the Beacon v2 draft 3 model for reference purposes, as it has been the active one for many months in the Beacon project and many documents, example code and presentations refers to this version.
+
 +++++ IT MUST BE CONSIDERED FROZEN +++++
 
 ## Introduction
